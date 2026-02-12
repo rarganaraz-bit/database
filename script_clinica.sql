@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS bbdd_negocio;
-USE bbdd_negocio;
+CREATE DATABASE IF NOT EXISTS Clinica;
+USE Clinica;
 
 CREATE TABLE Clientes (
     id_cliente INT AUTO_INCREMENT PRIMARY KEY,
